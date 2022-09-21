@@ -1,8 +1,13 @@
-h1  { color: blue; }
-b  { color: brown; }
-i  { color: red; }
-ul  { color: purple; }
-p  { color: brown; }
-#ruskea {
-  color: brown;
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #555;
+}
+h3 {
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
 }
