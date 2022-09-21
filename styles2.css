@@ -2,6 +2,10 @@
   width: 200px;
   height: 100px;
   background-color: red;
+  padding-top: 20px;
+  border-color: green;
+  border-width: 10px;
+  border-style: Solid;
 }
 
 .second-box-container {
@@ -9,8 +13,12 @@
   height: 100px;
   background-color: yellow;
   position: relative; 
-  left: 220px;
-  bottom: 115px;
+  left: 240px;
+  bottom: 140px;
+  padding-top: 20px;
+  border-color: red;
+  border-width: 10px;
+  border-style: Solid;
 }
 
 .third-box-container {
@@ -18,7 +26,18 @@
   height: 100px;
   background-color: green;
   position: relative;
-  left: 440px;
-  bottom: 230px;
+  left: 480px;
+  bottom: 280px;
+  padding-top: 20px;
+  border-color: yellow;
+  border-width: 10px;
+  border-style: Solid;
+  
+}
+
+p {
+text-align: center;
+color: blue;
+font-family: Sans-serif;
 }
 
